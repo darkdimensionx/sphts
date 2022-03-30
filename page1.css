@@ -83,3 +83,13 @@ body{
    margin-left:20px;
    
 }
+.ncerc{
+    color:rgb(245, 233, 233);
+    margin-top:40px;
+}
+.ncerc1{
+    text-decoration: none;
+}
+.ncerc:hover{
+    color:blueviolet
+}
