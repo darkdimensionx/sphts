@@ -61,14 +61,15 @@ body{
 }
 .mecha{
     margin-top: 10px;
-    margin-left:30%;
     width:52%;
-    height:60%
+    height:60%;
+    text-align:center;
 }
 .me1{
     color:#fff;
-    margin-left:38% ;
-    font-size: 30px;  
+    text-align:center;
+    font-size: 30px; 
+    
 }
 .bottom{
     height:100px;
