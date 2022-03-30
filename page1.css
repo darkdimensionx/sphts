@@ -84,12 +84,12 @@ body{
    
 }
 .ncerc{
-    color:rgb(245, 233, 233);
+    color:#fff;
     margin-top:40px;
 }
 .ncerc1{
-    text-decoration: none;
+    text-decoration:none;
 }
 .ncerc:hover{
-    color:blueviolet
+    color:rgb(139, 42, 230)
 }
