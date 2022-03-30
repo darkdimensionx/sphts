@@ -84,11 +84,11 @@ body{
    
 }
 .ncerc{
-    color:#fff;
+    color:rgb(245, 233, 233);
     margin-top:40px;
 }
 .ncerc1{
-    text-decoration:none;
+    text-decoration: none;
 }
 .ncerc:hover{
     color:rgb(139, 42, 230)
